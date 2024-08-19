@@ -42,7 +42,7 @@ Feel free to fork the repository and submit pull requests. You can also open an 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Authors
-- Your Name - *SHETHALA BOGGARAPU*
+- *SHETHALA BOGGARAPU*
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used
